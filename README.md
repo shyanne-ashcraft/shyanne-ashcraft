@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shyanne-ashcraft
+- 👀 I’m interested in all things cybersecurity and data visualization. But I also enjoy a nice book, going hiking, and hanging out with my two cats: Mochi and Sushi
+- 🌱 I’m currently learning IT automation with Python
